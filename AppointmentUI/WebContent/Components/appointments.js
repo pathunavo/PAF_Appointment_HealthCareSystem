@@ -133,27 +133,29 @@ function onAppointmentDeleteComplete(response, status)
 
 function validateAppointmentForm()
 {
-	// CODE
+	// REG NO
 	if ($("#patientRegNo").val().trim() == "")
 	{
-		return "Insert patient reg no.";
+		return "Please insert your registration no.";
 	}
 	
-	// NAME
+	// DATE
 	if ($("#appoDate").val().trim() == "")
 	{
 		return "Insert Date.";
 	}
 	
-	//PRICE-------------------------------
+	//TIME-------------------------------
 	if ($("#appoTime").val().trim() == "")
 	{
 		return "Insert time.";
 	}
+	//CHECKUP NEED-------------------------------
 	if ($("#checkupNeed").val().trim() == "")
 	{
 		return "Insert checkup.";
 	}
+	//DOC NAME-------------------------------
 	if ($("#docName").val().trim() == "")
 	{
 		return "Insert doc name.";

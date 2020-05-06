@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Items Management</title>
+<title>Appointments</title>
 
 <link rel="stylesheet" href="Views/bootstrap.min.css">
 <link rel="stylesheet" href="Views/style.css">
