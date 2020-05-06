@@ -1,0 +1,24 @@
+
+Instruction To consider:
+
+1.My part is an appointment service in health care system.
+2.From that when create database for this my database name is test.
+
+CREATE DATABASE test;
+
+3.And my table name is appointments and statment of this created table is.
+
+CREATE TABLE `appointments` (
+  `appoID` int(11) NOT NULL AUTO_INCREMENT,
+  `patientRegNo` varchar(45) DEFAULT NULL,
+  `appoDate` date DEFAULT NULL,
+  `appoTime` time DEFAULT NULL,
+  `checkupNeed` varchar(45) DEFAULT NULL,
+  `docName` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`appoID`)
+) ENGINE=InnoDB AUTO_INCREMENT=36 DEFAULT CHARSET=latin1;
+
+4.My database username is : root
+  password (no password)  :""
+
+***MY table script has already submitted as .sql file to github. and it run properly***
