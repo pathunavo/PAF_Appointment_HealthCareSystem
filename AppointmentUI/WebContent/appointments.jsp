@@ -19,7 +19,7 @@
 		<div class="col-6">
 			<h1>MAKE AN APPOINTMENT</h1>
 			
-			<form id="formAppointment" name="formAppointment" method="post" action="appointments.jsp" width=100%>
+			<form id="formAppointment" name="formAppointment" method="post" action="appointments.jsp">
 
 				Register No:
 				<input id="patientRegNo" name="patientRegNo" type="text" class="form-control form-control-sm">
