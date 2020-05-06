@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+
+
+.col-6{
+	margin-left:40px;
+	width : 1000px;
+	
+}
+.form_table{
+	direction: rtl;
+}
+.div {
+  column-gap: 40px;
+}
+.form-control-form-control-sm{
+	
+	width:40%;
+	
+}
