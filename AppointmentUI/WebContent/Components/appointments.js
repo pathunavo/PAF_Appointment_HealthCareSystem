@@ -142,7 +142,7 @@ function validateAppointmentForm()
 	// DATE
 	if ($("#appoDate").val().trim() == "")
 	{
-		return "Insert Date.";
+		return "Please insert appointment date";
 	}
 	
 	//TIME-------------------------------
