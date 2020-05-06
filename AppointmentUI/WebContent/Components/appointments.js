@@ -158,7 +158,7 @@ function validateAppointmentForm()
 	//DOC NAME-------------------------------
 	if ($("#docName").val().trim() == "")
 	{
-		return "Insert doc name.";
+		return "Insert doctor name";
 	}
 	return true;
 }
