@@ -82,7 +82,7 @@ tr:nth-child(even) {
 			 
 			<h1>DOCTOR'S AVAILABILITY</h1>
 			
-			<form id="formDate" name="formDate" method="post" action="appointments.jsp">
+			<form id="formDocShedule" name="formDocShedule" method="post" action="appointments.jsp">
 			 
 			 
 <table>
