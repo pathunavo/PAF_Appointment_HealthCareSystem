@@ -153,7 +153,7 @@ function validateAppointmentForm()
 	//CHECKUP NEED-------------------------------
 	if ($("#checkupNeed").val().trim() == "")
 	{
-		return "Insert checkup.";
+		return "Insert what you want to checkup";
 	}
 	//DOC NAME-------------------------------
 	if ($("#docName").val().trim() == "")
