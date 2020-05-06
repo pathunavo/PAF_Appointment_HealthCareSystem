@@ -140,6 +140,12 @@ tr:nth-child(even) {
     <td>Thursday and Friday</td>
     <td>10.30AM-6.30PM</td>
   </tr>
+   <tr>
+    <td>Health checks for bowel cancer</td>
+    <td>Dr.Madhawi Perera</td>
+    <td>Thursday and Friday</td>
+    <td>4.30AM-8.30PM</td>
+  </tr>
 </table>
 </form>
 </div>
