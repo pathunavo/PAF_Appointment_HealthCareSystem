@@ -148,7 +148,7 @@ function validateAppointmentForm()
 	//TIME-------------------------------
 	if ($("#appoTime").val().trim() == "")
 	{
-		return "Insert time.";
+		return "Please insert appointment time.";
 	}
 	//CHECKUP NEED-------------------------------
 	if ($("#checkupNeed").val().trim() == "")
